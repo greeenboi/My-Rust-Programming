@@ -1,5 +1,5 @@
 fn main() {
-    let name = "suvan";
+    let first_name = "suvan";
     //print the variable name on a new line
-    println!("{}",name);
+    println!("{}",first_name);
 }
